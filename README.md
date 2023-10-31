@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="oshi-no-ko-oshino-ko.gif" alt="Banner"></a>
+</p>
+
 
 <h1 align="center">Hi, I'm <a href="https://www.github.com/Sovsemo">Maxim </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
