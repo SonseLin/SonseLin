@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="https://t.me/Sovsemo">Telegram</a></strong> |
   <strong><a href="https://t.me/dyrachyokbait">Blog</a></strong> |
-  <strong><a href="https://edu.21-school.ru/">loquatsu S21</a></strong>
+  <strong><a href="https://edu.21-school.ru/">loquatsa S21</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software and mental troubleshoot.</p>
