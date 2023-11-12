@@ -14,6 +14,10 @@
   <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovsemo&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
 </p>
 
+<!--
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <p align="center">
   <strong><a href="https://t.me/Sovsemo">Telegram</a></strong> |
   <strong><a href="https://t.me/baitishnik">Blog</a></strong> |
