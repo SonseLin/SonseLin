@@ -7,7 +7,11 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=Sovsemo&hide_border=true&show_icons=true" alt="Sovsemo's github stats"></a>
+  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=Sovsemo&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sovsemo's github stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovsemo&layout=pie" alt="Sovsemo`s github languages"></a>
 </p>
 
 <p align="center">
