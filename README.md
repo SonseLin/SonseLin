@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovsemo&layout=pie" alt="Sovsemo`s github languages"></a>
+  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovsemo&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
 </p>
 
 <p align="center">
