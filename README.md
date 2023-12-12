@@ -5,11 +5,11 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=SovseLin&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sovsemo's github stats"></a>
+  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=SonseLin&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sovsemo's github stats"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovselin&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
+  <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonselin&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
 </p>
 
 <!--
