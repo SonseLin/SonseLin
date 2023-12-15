@@ -12,10 +12,6 @@
   <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonselin&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
 </p>
 
-<!--
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <p align="center">
   <strong><a href="https://t.me/Sonselin">Telegram</a></strong> |
   <strong><a href="https://t.me/baitishnik">Blog</a></strong> |
@@ -29,15 +25,7 @@
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="mimic.gif" width=600px, alt="Banner"></a>
 </p>
-<!--
-<p align="center">
-  <strong><a href="https://github.com/Sovsemo/S21_swim_script">Terminal config and utilities</a></strong>
-<br>
-  <strong><a href="https://github.com/Sovsemo/S21_intensive_loquatsa">Personal path at bootcamp</a></strong>
-  <br>
-  <strong><a href="https://github.com/Sovsemo/S21_CHEET_SHEET">Guide how to pass it successfully</a></strong>
-</p>
-!-->
+
 <table style="width: 800px; border-collapse: collapse;" align="center">
   <thead>
     <tr>
@@ -60,3 +48,8 @@
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <a>Literally profile views</a><br>
+  <img src="https://moe-counter.glitch.me/get/@sonselin">
+</p>
