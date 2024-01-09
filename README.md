@@ -46,6 +46,14 @@
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_swim_script">Terminal</a></td>
       <td style="padding: 8px; text-align: left;">Terminal config and utilities, that i wrote to help myself and other peers</td>
     </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_simpleBashUtils">SBU</a></td>
+      <td style="padding: 8px; text-align: left;">Writing cat/grep *unix basic utilities</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_string-">String</a></td>
+      <td style="padding: 8px; text-align: left;">Implementation of C string library</td>
+    </tr>
   </tbody>
 </table>
 
