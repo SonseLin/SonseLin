@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_intensive_loquatsa">Loquatsa</a></td>
-      <td style="padding: 8px; text-align: left;">Personal path at bootcamp</td>
+      <td style="padding: 8px; text-align: left;">Personal path</td>
     </tr>
     <tr>
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_swim_script">Terminal</a></td>
