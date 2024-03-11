@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm literally <a href="https://www.github.com/Sovsemo">Maxim</a>!</h1>
-<p align="center">
+<!--<p align="center">
   <a href="https://www.edisonlee55.com"><img src="frieren.png" width=600px, alt="Banner"></a>
 </p>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>-->
 
 <p align="center">
   <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=SonseLin&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sovsemo's github stats"></a>
