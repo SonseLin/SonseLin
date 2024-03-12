@@ -59,7 +59,7 @@
       <td style="padding: 8px; text-align: left;">Implementation of C decimal library</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_matrix">S21_Matrix</a></td>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_matrix_v4">S21_Matrix</a></td>
       <td style="padding: 8px; text-align: left;">Implementation of C matrix library</td>
     </tr>
   </tbody>
