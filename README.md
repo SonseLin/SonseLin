@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">❤ I'm currently working on Software and a little bit of hardware.</p>
+<p align="center">   Heading into ML & DL while maintaining algorithms knowledge
 <p align="center">✨ I`m interested in being happy and weaboo staff.</p>
 
 <h1 align="center">Also you can find out my projects belong to Sber 21<br>(ex Ecole 42, but in CIS)!</h1>
