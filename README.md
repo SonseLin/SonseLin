@@ -67,10 +67,8 @@
 </table>
 
 <p align="center">
-  <a>Literally profile views</a><br>
-  <img src="https://moe-counter.glitch.me/get/@sonselin">
+<img src="https://visitcount.itsvg.in/api?id=sonselin&label=Profile%20Views&color=12&icon=1&pretty=true">
 </p>
-
 <p>Latest video for Algorithmia 21</p>
 
 [![Latest video of my lectures](http://i3.ytimg.com/vi/4USNvnD7DYk/hqdefault.jpg)](https://www.youtube.com/watch?v=4USNvnD7DYk&t=671s)
