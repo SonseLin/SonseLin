@@ -69,6 +69,6 @@
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=sonselin&label=Profile%20Views&color=12&icon=1&pretty=true">
 </p>
-<p>Latest video for Algorithmia 21</p>
+<p>Latest video for Algorithmia</p>
 
-[![Latest video of my lectures](http://i3.ytimg.com/vi/4USNvnD7DYk/hqdefault.jpg)](https://www.youtube.com/watch?v=4USNvnD7DYk&t=671s)
+[![Latest video of my lectures](https://i.ytimg.com/an_webp/uxqXTWwpkiU/mqdefault_6s.webp?du=3000&sqp=CLT167AG&rs=AOn4CLCCZfysH_F6KM0e1zlleq27r-tfJA)](https://www.youtube.com/watch?v=4USNvnD7DYk&t=671s)
