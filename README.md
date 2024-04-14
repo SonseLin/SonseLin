@@ -71,4 +71,4 @@
 </p>
 <p>Latest video for Algorithmia</p>
 
-[![Latest video of my lectures](https://i.ytimg.com/an_webp/uxqXTWwpkiU/mqdefault_6s.webp?du=3000&sqp=CLT167AG&rs=AOn4CLCCZfysH_F6KM0e1zlleq27r-tfJA)](https://www.youtube.com/watch?v=4USNvnD7DYk&t=671s)
+[![Latest video of my lectures](https://i.ytimg.com/an_webp/uxqXTWwpkiU/mqdefault_6s.webp?du=3000&sqp=CLT167AG&rs=AOn4CLCCZfysH_F6KM0e1zlleq27r-tfJA)](https://www.youtube.com/watch?v=uxqXTWwpkiU)
