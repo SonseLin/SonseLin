@@ -26,8 +26,8 @@
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="mimic.gif" width=600px, alt="Banner"></a>
 </p>
-
-<table style="width: 800px; border-collapse: collapse;" align="center">
+<h2>Intensive</h2>
+<table>
   <thead>
     <tr>
       <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
@@ -35,7 +35,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+     <tr>
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_CHEET_SHEET">CHEET SHEET</a></td>
       <td style="padding: 8px; text-align: left;">Guide how to pass it successfully</td>
     </tr>
@@ -47,6 +47,17 @@
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_swim_script">Terminal</a></td>
       <td style="padding: 8px; text-align: left;">Terminal config and utilities, that i wrote to help myself and other peers</td>
     </tr>
+  </tbody>
+</table>
+<h2>C Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_simpleBashUtils">S21_simpleBashUtils</a></td>
       <td style="padding: 8px; text-align: left;">Writing cat/grep *unix basic utilities</td>
@@ -62,6 +73,25 @@
     <tr>
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_matrix">S21_Matrix</a></td>
       <td style="padding: 8px; text-align: left;">Implementation of C matrix library</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_brick_game">S21_Brick_Game</a></td>
+      <td style="padding: 8px; text-align: left;">Implementation of Brick Game using C</td>
+    </tr>
+  </tbody>
+</table>
+<h2>C++ Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_matrix_cpp">S21_Matrix+</a></td>
+      <td style="padding: 8px; text-align: left;">Implementation of C++ matrix library</td>
     </tr>
   </tbody>
 </table>
