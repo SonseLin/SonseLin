@@ -93,6 +93,25 @@
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_matrix_cpp">S21_Matrix+</a></td>
       <td style="padding: 8px; text-align: left;">Implementation of C++ matrix library</td>
     </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_Containers">S21_Containers</a></td>
+      <td style="padding: 8px; text-align: left;">Implementation of C++ data structures</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Bootcamps</h2>
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Camp</th>
+      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_SQL_Bootcamp">S21_SQL_Bootcamp</a></td>
+      <td style="padding: 8px; text-align: left;">Learning SQL and DWH</td>
+    </tr>
   </tbody>
 </table>
 
