@@ -98,7 +98,7 @@
       <td style="padding: 8px; text-align: left;">Implementation of C++ data structures</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_3D_Viewer_2.0">S21_Containers</a></td>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_3D_Viewer_2.0">S21_3D_Viewer_2.0</a></td>
       <td style="padding: 8px; text-align: left;">Implementation of C++ project to view 3D models</td>
     </tr>
   </tbody>
