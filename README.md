@@ -116,6 +116,10 @@
       <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_SQL_Bootcamp">S21_SQL_Bootcamp</a></td>
       <td style="padding: 8px; text-align: left;">Learning SQL and DWH</td>
     </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_DS_Bootcamp">S21_DS_Bootcamp</a></td>
+      <td style="padding: 8px; text-align: left;">Learning DS and ML basics</td>
+    </tr>
   </tbody>
 </table>
 
