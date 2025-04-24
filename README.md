@@ -4,13 +4,15 @@
 </p>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>-->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api?username=SonseLin&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sovsemo's github stats"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sovsemo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonselin&layout=pie&theme=merko" alt="Sovsemo`s github languages"></a>
-</p>
+</p>-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonselin&theme=react-dark&days=21&custom_title=My%20lazy%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <strong><a href="https://t.me/Sonselin">Telegram</a></strong> |
