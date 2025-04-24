@@ -24,7 +24,7 @@
 <p align="center">   Heading into ML & DL while maintaining algorithms knowledge
 <p align="center">✨ I`m interested in being happy and weaboo staff.</p>
 
-<h1 align="center">Also you can find out my projects belong to Sber 21<br>(ex Ecole 42, but in CIS)!</h1>
+<h1 align="center">Also you can find out my projects belong to Sber 21<br>(ex Ecole 42, rebranded for CIS zone)</h1>
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="mimic.gif" width=600px, alt="Banner"></a>
 </p>
@@ -125,9 +125,6 @@
   </tbody>
 </table>
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=sonselin&label=Profile%20Views&color=12&icon=1&pretty=true">
-</p>
 <p>Latest video for Algorithmia</p>
 
-[![Latest video of my lectures](https://i.ytimg.com/an_webp/uxqXTWwpkiU/mqdefault_6s.webp?du=3000&sqp=CLT167AG&rs=AOn4CLCCZfysH_F6KM0e1zlleq27r-tfJA)](https://www.youtube.com/watch?v=uxqXTWwpkiU)
+[![Latest video of my lectures](https://i.ytimg.com/an_webp/jgCKhYZe4ec/mqdefault_6s.webp?du=3000&sqp=CObTqMAG&rs=AOn4CLBxXA0ZYidFP1AWk0uHDphwIu27Tg)](https://www.youtube.com/watch?v=jgCKhYZe4ec)
