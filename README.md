@@ -127,4 +127,4 @@
 
 <p>Latest video for Algorithmia</p>
 
-[![Latest video of my lectures](https://i.ytimg.com/an_webp/jgCKhYZe4ec/mqdefault_6s.webp?du=3000&sqp=CObTqMAG&rs=AOn4CLBxXA0ZYidFP1AWk0uHDphwIu27Tg)](https://www.youtube.com/watch?v=jgCKhYZe4ec)
+[![Latest video of my lectures](https://img.youtube.com/vi/jgCKhYZe4ec/0.jpg)](https://www.youtube.com/watch?v=jgCKhYZe4ec)
