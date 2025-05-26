@@ -25,106 +25,17 @@
 <p align="center">   Heading into ML & DL while maintaining algorithms knowledge
 <p align="center">✨ I`m interested in being happy and weaboo staff.</p>
 
-<h1 align="center">Also you can find out my projects belong to Sber 21<br>(ex Ecole 42, rebranded for CIS zone)</h1>
+<h1 align="center">
+  Also you can find out my 
+  <a href="https://github.com/SonseLin/Sber_CPP_Projects">CPP</a> 
+  and 
+  <a href="https://github.com/SonseLin/Sber_ML_Projects">DS/ML</a> 
+  projects belong to Sber 21<br>
+  (ex Ecole 42, rebranded for CIS zone)
+</h1>
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="mimic.gif" width=600px, alt="Banner"></a>
 </p>
-<h2>Intensive</h2>
-<table>
-  <thead>
-    <tr>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_CHEET_SHEET">CHEET SHEET</a></td>
-      <td style="padding: 8px; text-align: left;">Guide how to pass it successfully</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_intensive_loquatsa">Loquatsa</a></td>
-      <td style="padding: 8px; text-align: left;">Personal path</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/Sovsemo/S21_swim_script">Terminal</a></td>
-      <td style="padding: 8px; text-align: left;">Terminal config and utilities, that i wrote to help myself and other peers</td>
-    </tr>
-  </tbody>
-</table>
-<h2>C Projects</h2>
-<table>
-  <thead>
-    <tr>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_simpleBashUtils">S21_simpleBashUtils</a></td>
-      <td style="padding: 8px; text-align: left;">Writing cat/grep *unix basic utilities</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_string-">S21_String+</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C string library</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_decimal">S21_Decimal</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C decimal library</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/s21_matrix">S21_Matrix</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C matrix library</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_brick_game">S21_Brick_Game</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of Brick Game using C</td>
-    </tr>
-  </tbody>
-</table>
-<h2>C++ Projects</h2>
-<table>
-  <thead>
-    <tr>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Project</th>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_matrix_cpp">S21_Matrix+</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C++ matrix library</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_Containers">S21_Containers</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C++ data structures</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_3D_Viewer_2.0">S21_3D_Viewer_2.0</a></td>
-      <td style="padding: 8px; text-align: left;">Implementation of C++ project to view 3D models</td>
-    </tr>
-  </tbody>
-</table>
-<h2>Bootcamps</h2>
-<table>
-  <thead>
-    <tr>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Camp</th>
-      <th style="background-color: #f2f2f2; padding: 8px; text-align: left;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_SQL_Bootcamp">S21_SQL_Bootcamp</a></td>
-      <td style="padding: 8px; text-align: left;">Learning SQL and DWH</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: left;"><a href="https://github.com/SonseLin/S21_DS_Bootcamp">S21_DS_Bootcamp</a></td>
-      <td style="padding: 8px; text-align: left;">Learning DS and ML basics</td>
-    </tr>
-  </tbody>
-</table>
 
 <p>Latest video for Algorithmia</p>
 
